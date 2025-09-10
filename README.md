@@ -1,11 +1,8 @@
-# Flappy_Bird
-Flappy Bird is a recreation of the classic arcade game where the player controls a bird, attempting to fly between pipes without hitting them. Built using Scratch, this project serves as a fun, interactive demonstration of game physics, animation, and user input handling.
-
 # Flappy Bird
 
 A simple and fun clone of the popular Flappy Bird game. The player controls a bird that must navigate through gaps between pipes without colliding. The game challenges players' reflexes and timing while showcasing basic game development concepts.
 
-## 🚀 Features
+## Features
 - Smooth bird animation and physics.
 - Randomized pipe generation to increase replay value.
 - Score tracking and high-score persistence.
